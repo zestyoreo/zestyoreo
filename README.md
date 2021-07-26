@@ -11,8 +11,7 @@
 
 ### Contact me:
 
-- Personal website: [![website](https://img.shields.io/badge/balasubramanian.in-3693F3?style=flat-square&logo=icloud&logoColor=white)](http://balasubramanian.in/)
-- Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim) 
-- Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951)
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.abdilim@foxmail.com)
-
+[![website](https://img.shields.io/badge/balasubramanian.in-3693F3?style=flat-square&logo=icloud&logoColor=white)](http://balasubramanian.in/)
+<a href="https://twitter.com/zestyoreo" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="mailto:zestyoreo10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/balasubramanian-p-991059148/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
