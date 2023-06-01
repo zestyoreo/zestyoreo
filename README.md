@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Balasubramanian!
-- 👨🏽‍💻 I’m currently a sophie @IITB pursuing a Computer Science major 
+- 👨🏽‍💻 I’m currently a senior @IITB pursuing a Computer Science major 
 - 🌱 I am interested to learn more about ML,DL,RLand Algorithms.
 - 💬 Ask me about anything, I am happy to help!
 <p align="center">
