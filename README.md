@@ -1,6 +1,4 @@
 ## Hey 👋, I'm Balasubramanian!
-- 👨🏽‍💻 I’m currently a senior @IITB pursuing a Computer Science major 
-- 🌱 I am interested to learn more about ML,DL,RLand Algorithms.
 - 💬 Ask me about anything, I am happy to help!
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=zestyoreo&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
