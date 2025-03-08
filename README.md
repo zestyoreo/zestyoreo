@@ -1,9 +1,8 @@
 ## Hey 👋, I'm Balasubramanian!
 - 💬 Ask me about anything, I am happy to help!
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=zestyoreo&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zestyoreo&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://streak-stats.demolab.com?user=zestyoreo&theme=radical&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zestyoreo&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <br>
 </p>
 
