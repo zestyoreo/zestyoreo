@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Balasubramanian!
-- 💬 Ask me about anything, I am happy to help!
+- 💬 Learning, hoping, building.
 <p align="center">
   <img src ="https://streak-stats.demolab.com?user=zestyoreo&theme=radical&hide_border=true&background=FFFFFF00">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zestyoreo&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
@@ -13,6 +13,7 @@
 <a href="mailto:zestyoreo10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/balasubramanian-p-991059148/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+<a href="https://www.linkedin.com/in/balasubramanian-p-991059148/" target="_blank"><img src="https://backend.codecrafters.io/progress/dns-server/200ecbce-b2fe-46b9-beb6-635d68f348dd"  width="200"></a>
 <!--
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
